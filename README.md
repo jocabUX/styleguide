@@ -5,4 +5,4 @@
 <table style="border:1px solid black; width:100%;"><tr>
   <td>Lorem ipsum</td>
   <td>Lorem ipsum</td>
-</tr></tr></table>
+</tr></table>
